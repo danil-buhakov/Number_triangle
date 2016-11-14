@@ -1,0 +1,6 @@
+C:\Programming\Number_triangle\Number_triangle\Number_triangle\bin\Debug\Number_triangle.exe.config
+C:\Programming\Number_triangle\Number_triangle\Number_triangle\bin\Debug\Number_triangle.exe
+C:\Programming\Number_triangle\Number_triangle\Number_triangle\bin\Debug\Number_triangle.pdb
+C:\Programming\Number_triangle\Number_triangle\Number_triangle\obj\Debug\Number_triangle.csprojResolveAssemblyReference.cache
+C:\Programming\Number_triangle\Number_triangle\Number_triangle\obj\Debug\Number_triangle.exe
+C:\Programming\Number_triangle\Number_triangle\Number_triangle\obj\Debug\Number_triangle.pdb
